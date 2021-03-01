@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaDeClasses.Entidades", "BibliotecaDeClasses.Entidades\BibliotecaDeClasses.Entidades.csproj", "{4D44A9A6-34EF-40C8-BD16-F44CAAD07B00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaDeClasses.Importacao", "BibliotecaDeClasses.Importacao\BibliotecaDeClasses.Importacao.csproj", "{72E1587A-5688-4010-93D3-570D4A39907B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D44A9A6-34EF-40C8-BD16-F44CAAD07B00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D44A9A6-34EF-40C8-BD16-F44CAAD07B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D44A9A6-34EF-40C8-BD16-F44CAAD07B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D44A9A6-34EF-40C8-BD16-F44CAAD07B00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72E1587A-5688-4010-93D3-570D4A39907B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E1587A-5688-4010-93D3-570D4A39907B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E1587A-5688-4010-93D3-570D4A39907B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E1587A-5688-4010-93D3-570D4A39907B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D396A71F-186F-45A8-88ED-B1F8BB81D211}
+	EndGlobalSection
+EndGlobal

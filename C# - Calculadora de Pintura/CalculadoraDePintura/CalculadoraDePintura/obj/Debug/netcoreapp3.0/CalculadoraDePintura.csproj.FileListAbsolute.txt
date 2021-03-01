@@ -1,0 +1,11 @@
+C:\Users\mrodrili\Documents\Devmedia\C# - Calculadora de Pintura\CalculadoraDePintura\CalculadoraDePintura\bin\Debug\netcoreapp3.0\CalculadoraDePintura.exe
+C:\Users\mrodrili\Documents\Devmedia\C# - Calculadora de Pintura\CalculadoraDePintura\CalculadoraDePintura\bin\Debug\netcoreapp3.0\CalculadoraDePintura.deps.json
+C:\Users\mrodrili\Documents\Devmedia\C# - Calculadora de Pintura\CalculadoraDePintura\CalculadoraDePintura\bin\Debug\netcoreapp3.0\CalculadoraDePintura.runtimeconfig.json
+C:\Users\mrodrili\Documents\Devmedia\C# - Calculadora de Pintura\CalculadoraDePintura\CalculadoraDePintura\bin\Debug\netcoreapp3.0\CalculadoraDePintura.runtimeconfig.dev.json
+C:\Users\mrodrili\Documents\Devmedia\C# - Calculadora de Pintura\CalculadoraDePintura\CalculadoraDePintura\bin\Debug\netcoreapp3.0\CalculadoraDePintura.dll
+C:\Users\mrodrili\Documents\Devmedia\C# - Calculadora de Pintura\CalculadoraDePintura\CalculadoraDePintura\bin\Debug\netcoreapp3.0\CalculadoraDePintura.pdb
+C:\Users\mrodrili\Documents\Devmedia\C# - Calculadora de Pintura\CalculadoraDePintura\CalculadoraDePintura\obj\Debug\netcoreapp3.0\CalculadoraDePintura.csprojAssemblyReference.cache
+C:\Users\mrodrili\Documents\Devmedia\C# - Calculadora de Pintura\CalculadoraDePintura\CalculadoraDePintura\obj\Debug\netcoreapp3.0\CalculadoraDePintura.AssemblyInfoInputs.cache
+C:\Users\mrodrili\Documents\Devmedia\C# - Calculadora de Pintura\CalculadoraDePintura\CalculadoraDePintura\obj\Debug\netcoreapp3.0\CalculadoraDePintura.AssemblyInfo.cs
+C:\Users\mrodrili\Documents\Devmedia\C# - Calculadora de Pintura\CalculadoraDePintura\CalculadoraDePintura\obj\Debug\netcoreapp3.0\CalculadoraDePintura.dll
+C:\Users\mrodrili\Documents\Devmedia\C# - Calculadora de Pintura\CalculadoraDePintura\CalculadoraDePintura\obj\Debug\netcoreapp3.0\CalculadoraDePintura.pdb

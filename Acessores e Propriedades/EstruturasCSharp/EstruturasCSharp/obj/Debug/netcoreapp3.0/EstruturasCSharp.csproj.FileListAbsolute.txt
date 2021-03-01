@@ -1,0 +1,11 @@
+C:\Users\mrodrili\Documents\Devmedia\Acessores e Propriedades\EstruturasCSharp\EstruturasCSharp\bin\Debug\netcoreapp3.0\EstruturasCSharp.exe
+C:\Users\mrodrili\Documents\Devmedia\Acessores e Propriedades\EstruturasCSharp\EstruturasCSharp\bin\Debug\netcoreapp3.0\EstruturasCSharp.deps.json
+C:\Users\mrodrili\Documents\Devmedia\Acessores e Propriedades\EstruturasCSharp\EstruturasCSharp\bin\Debug\netcoreapp3.0\EstruturasCSharp.runtimeconfig.json
+C:\Users\mrodrili\Documents\Devmedia\Acessores e Propriedades\EstruturasCSharp\EstruturasCSharp\bin\Debug\netcoreapp3.0\EstruturasCSharp.runtimeconfig.dev.json
+C:\Users\mrodrili\Documents\Devmedia\Acessores e Propriedades\EstruturasCSharp\EstruturasCSharp\bin\Debug\netcoreapp3.0\EstruturasCSharp.dll
+C:\Users\mrodrili\Documents\Devmedia\Acessores e Propriedades\EstruturasCSharp\EstruturasCSharp\bin\Debug\netcoreapp3.0\EstruturasCSharp.pdb
+C:\Users\mrodrili\Documents\Devmedia\Acessores e Propriedades\EstruturasCSharp\EstruturasCSharp\obj\Debug\netcoreapp3.0\EstruturasCSharp.csprojAssemblyReference.cache
+C:\Users\mrodrili\Documents\Devmedia\Acessores e Propriedades\EstruturasCSharp\EstruturasCSharp\obj\Debug\netcoreapp3.0\EstruturasCSharp.AssemblyInfoInputs.cache
+C:\Users\mrodrili\Documents\Devmedia\Acessores e Propriedades\EstruturasCSharp\EstruturasCSharp\obj\Debug\netcoreapp3.0\EstruturasCSharp.AssemblyInfo.cs
+C:\Users\mrodrili\Documents\Devmedia\Acessores e Propriedades\EstruturasCSharp\EstruturasCSharp\obj\Debug\netcoreapp3.0\EstruturasCSharp.dll
+C:\Users\mrodrili\Documents\Devmedia\Acessores e Propriedades\EstruturasCSharp\EstruturasCSharp\obj\Debug\netcoreapp3.0\EstruturasCSharp.pdb

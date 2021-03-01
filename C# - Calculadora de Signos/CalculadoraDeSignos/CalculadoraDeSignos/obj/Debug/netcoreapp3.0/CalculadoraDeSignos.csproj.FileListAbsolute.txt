@@ -1,0 +1,11 @@
+C:\Users\mrodrili\Documents\Devmedia\C# - Calculadora de Signos\CalculadoraDeSignos\CalculadoraDeSignos\bin\Debug\netcoreapp3.0\CalculadoraDeSignos.exe
+C:\Users\mrodrili\Documents\Devmedia\C# - Calculadora de Signos\CalculadoraDeSignos\CalculadoraDeSignos\bin\Debug\netcoreapp3.0\CalculadoraDeSignos.deps.json
+C:\Users\mrodrili\Documents\Devmedia\C# - Calculadora de Signos\CalculadoraDeSignos\CalculadoraDeSignos\bin\Debug\netcoreapp3.0\CalculadoraDeSignos.runtimeconfig.json
+C:\Users\mrodrili\Documents\Devmedia\C# - Calculadora de Signos\CalculadoraDeSignos\CalculadoraDeSignos\bin\Debug\netcoreapp3.0\CalculadoraDeSignos.runtimeconfig.dev.json
+C:\Users\mrodrili\Documents\Devmedia\C# - Calculadora de Signos\CalculadoraDeSignos\CalculadoraDeSignos\bin\Debug\netcoreapp3.0\CalculadoraDeSignos.dll
+C:\Users\mrodrili\Documents\Devmedia\C# - Calculadora de Signos\CalculadoraDeSignos\CalculadoraDeSignos\bin\Debug\netcoreapp3.0\CalculadoraDeSignos.pdb
+C:\Users\mrodrili\Documents\Devmedia\C# - Calculadora de Signos\CalculadoraDeSignos\CalculadoraDeSignos\obj\Debug\netcoreapp3.0\CalculadoraDeSignos.csprojAssemblyReference.cache
+C:\Users\mrodrili\Documents\Devmedia\C# - Calculadora de Signos\CalculadoraDeSignos\CalculadoraDeSignos\obj\Debug\netcoreapp3.0\CalculadoraDeSignos.AssemblyInfoInputs.cache
+C:\Users\mrodrili\Documents\Devmedia\C# - Calculadora de Signos\CalculadoraDeSignos\CalculadoraDeSignos\obj\Debug\netcoreapp3.0\CalculadoraDeSignos.AssemblyInfo.cs
+C:\Users\mrodrili\Documents\Devmedia\C# - Calculadora de Signos\CalculadoraDeSignos\CalculadoraDeSignos\obj\Debug\netcoreapp3.0\CalculadoraDeSignos.dll
+C:\Users\mrodrili\Documents\Devmedia\C# - Calculadora de Signos\CalculadoraDeSignos\CalculadoraDeSignos\obj\Debug\netcoreapp3.0\CalculadoraDeSignos.pdb

@@ -1,0 +1,8 @@
+C:\Users\mrodrili\Documents\Devmedia\.Net - Biblioteca de Classes\DevMedia\DevMedia.Dominio\bin\Debug\netstandard2.0\DevMedia.Dominio.deps.json
+C:\Users\mrodrili\Documents\Devmedia\.Net - Biblioteca de Classes\DevMedia\DevMedia.Dominio\bin\Debug\netstandard2.0\DevMedia.Dominio.dll
+C:\Users\mrodrili\Documents\Devmedia\.Net - Biblioteca de Classes\DevMedia\DevMedia.Dominio\bin\Debug\netstandard2.0\DevMedia.Dominio.pdb
+C:\Users\mrodrili\Documents\Devmedia\.Net - Biblioteca de Classes\DevMedia\DevMedia.Dominio\obj\Debug\netstandard2.0\DevMedia.Dominio.csprojAssemblyReference.cache
+C:\Users\mrodrili\Documents\Devmedia\.Net - Biblioteca de Classes\DevMedia\DevMedia.Dominio\obj\Debug\netstandard2.0\DevMedia.Dominio.AssemblyInfoInputs.cache
+C:\Users\mrodrili\Documents\Devmedia\.Net - Biblioteca de Classes\DevMedia\DevMedia.Dominio\obj\Debug\netstandard2.0\DevMedia.Dominio.AssemblyInfo.cs
+C:\Users\mrodrili\Documents\Devmedia\.Net - Biblioteca de Classes\DevMedia\DevMedia.Dominio\obj\Debug\netstandard2.0\DevMedia.Dominio.dll
+C:\Users\mrodrili\Documents\Devmedia\.Net - Biblioteca de Classes\DevMedia\DevMedia.Dominio\obj\Debug\netstandard2.0\DevMedia.Dominio.pdb

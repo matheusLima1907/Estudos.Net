@@ -1,0 +1,80 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "BibliotecaDeClasses.Entidades/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/BibliotecaDeClasses.Entidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BibliotecaDeClasses.Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BibliotecaDeClasses.Entidades/1.0.0": {
+      "type": "project",
+      "path": "../BibliotecaDeClasses.Entidades/BibliotecaDeClasses.Entidades.csproj",
+      "msbuildProject": "../BibliotecaDeClasses.Entidades/BibliotecaDeClasses.Entidades.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "BibliotecaDeClasses.Entidades >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mrodrili\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\mrodrili\\OneDrive - everis\\Estudos .Net\\.Net - Biblioteca de Classes\\BibliotecaDeClasses\\BibliotecaDeClasses.Importacao\\BibliotecaDeClasses.Importacao.csproj",
+      "projectName": "BibliotecaDeClasses.Importacao",
+      "projectPath": "C:\\Users\\mrodrili\\OneDrive - everis\\Estudos .Net\\.Net - Biblioteca de Classes\\BibliotecaDeClasses\\BibliotecaDeClasses.Importacao\\BibliotecaDeClasses.Importacao.csproj",
+      "packagesPath": "C:\\Users\\mrodrili\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mrodrili\\OneDrive - everis\\Estudos .Net\\.Net - Biblioteca de Classes\\BibliotecaDeClasses\\BibliotecaDeClasses.Importacao\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\mrodrili\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "C:\\Users\\mrodrili\\OneDrive - everis\\Estudos .Net\\.Net - Biblioteca de Classes\\BibliotecaDeClasses\\BibliotecaDeClasses.Entidades\\BibliotecaDeClasses.Entidades.csproj": {
+              "projectPath": "C:\\Users\\mrodrili\\OneDrive - everis\\Estudos .Net\\.Net - Biblioteca de Classes\\BibliotecaDeClasses\\BibliotecaDeClasses.Entidades\\BibliotecaDeClasses.Entidades.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}

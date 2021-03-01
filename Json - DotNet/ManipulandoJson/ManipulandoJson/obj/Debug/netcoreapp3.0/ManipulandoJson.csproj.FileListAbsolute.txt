@@ -1,0 +1,13 @@
+C:\Users\mrodrili\Documents\Devmedia\Json - DotNet\ManipulandoJson\ManipulandoJson\bin\Debug\netcoreapp3.0\ManipulandoJson.exe
+C:\Users\mrodrili\Documents\Devmedia\Json - DotNet\ManipulandoJson\ManipulandoJson\obj\Debug\netcoreapp3.0\ManipulandoJson.csprojAssemblyReference.cache
+C:\Users\mrodrili\Documents\Devmedia\Json - DotNet\ManipulandoJson\ManipulandoJson\obj\Debug\netcoreapp3.0\ManipulandoJson.AssemblyInfoInputs.cache
+C:\Users\mrodrili\Documents\Devmedia\Json - DotNet\ManipulandoJson\ManipulandoJson\obj\Debug\netcoreapp3.0\ManipulandoJson.AssemblyInfo.cs
+C:\Users\mrodrili\Documents\Devmedia\Json - DotNet\ManipulandoJson\ManipulandoJson\bin\Debug\netcoreapp3.0\ManipulandoJson.deps.json
+C:\Users\mrodrili\Documents\Devmedia\Json - DotNet\ManipulandoJson\ManipulandoJson\bin\Debug\netcoreapp3.0\ManipulandoJson.runtimeconfig.json
+C:\Users\mrodrili\Documents\Devmedia\Json - DotNet\ManipulandoJson\ManipulandoJson\bin\Debug\netcoreapp3.0\ManipulandoJson.runtimeconfig.dev.json
+C:\Users\mrodrili\Documents\Devmedia\Json - DotNet\ManipulandoJson\ManipulandoJson\bin\Debug\netcoreapp3.0\ManipulandoJson.dll
+C:\Users\mrodrili\Documents\Devmedia\Json - DotNet\ManipulandoJson\ManipulandoJson\bin\Debug\netcoreapp3.0\ManipulandoJson.pdb
+C:\Users\mrodrili\Documents\Devmedia\Json - DotNet\ManipulandoJson\ManipulandoJson\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\mrodrili\Documents\Devmedia\Json - DotNet\ManipulandoJson\ManipulandoJson\obj\Debug\netcoreapp3.0\ManipulandoJson.csproj.CopyComplete
+C:\Users\mrodrili\Documents\Devmedia\Json - DotNet\ManipulandoJson\ManipulandoJson\obj\Debug\netcoreapp3.0\ManipulandoJson.dll
+C:\Users\mrodrili\Documents\Devmedia\Json - DotNet\ManipulandoJson\ManipulandoJson\obj\Debug\netcoreapp3.0\ManipulandoJson.pdb
